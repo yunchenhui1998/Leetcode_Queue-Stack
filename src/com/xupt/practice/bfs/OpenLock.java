@@ -1,4 +1,4 @@
-package com.xupt.practicec.bfs;
+package com.xupt.practice.bfs;
 
 import java.util.HashSet;
 import java.util.LinkedList;
